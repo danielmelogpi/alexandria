@@ -24,3 +24,8 @@ https://www.youtube.com/watch?v=rzwtMb5Foew
 ## Engenharia
 ### Fowler
 https://martinfowler.com/articles/microservices.html
+
+
+### ACM
+A Conversation with Werner Vogels (Learning from the Amazon technology platform)
+https://queue.acm.org/detail.cfm?id=1142065
