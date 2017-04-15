@@ -20,3 +20,7 @@ https://www.terlici.com/2014/09/23/multiple-api-version.html
 ### Qualidade de código - Será que realmente importa?
 https://www.youtube.com/watch?v=pepkomxYcaY&list=PLQCmSnNFVYnSpfpwwQGO8QHQ3CcizaZsV
 https://www.youtube.com/watch?v=rzwtMb5Foew
+
+##Engenharia
+### Fowler
+https://martinfowler.com/articles/microservices.html
