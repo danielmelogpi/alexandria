@@ -1,6 +1,11 @@
 # Alexandria
 Um pequeno repositório de material para leitura
 
+## Educational things
+### Freecodecamp
+Lots os cool topics and also many basic ones for starters -
+https://www.freecodecamp.com/map
+
 ## Versionamento de API
 ### Supporting multiple API versions
 https://www.terlici.com/2014/09/23/multiple-api-version.html
