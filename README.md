@@ -16,6 +16,10 @@ https://www.terlici.com/2014/09/23/multiple-api-version.html
 > * How should I handle legacy code? When can I remove it safely?
 > * What if there is a client who never updates?
 
+## Docker
+Portainer - A docker web interface and container manager
+https://portainer.readthedocs.io/en/latest/index.html
+
 
 ### Qualidade de código - Será que realmente importa?
 https://www.youtube.com/watch?v=pepkomxYcaY&list=PLQCmSnNFVYnSpfpwwQGO8QHQ3CcizaZsV
