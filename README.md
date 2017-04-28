@@ -6,6 +6,9 @@ Um pequeno repositório de material para leitura
 Lots os cool topics and also many basic ones for starters -
 https://www.freecodecamp.com/map
 
+### How it is to be a web developer in
+- 2017 : https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf
+
 ## Versionamento de API
 ### Supporting multiple API versions
 https://www.terlici.com/2014/09/23/multiple-api-version.html
