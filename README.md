@@ -45,3 +45,4 @@ https://queue.acm.org/detail.cfm?id=1142065
 
 ### Javascript
 - James Sinclair - http://jrsinclair.com/
+- Pagarme Talks - Talk #45 - Nas entranhas do JavaScript: meta programação - https://www.youtube.com/watch?v=xrAJCFt2N5Q
