@@ -7,3 +7,4 @@ https://www.thinkwithgoogle.com/articles/principles-of-mobile-app-design-engage-
 - UX Design for Mobile Developers - https://www.udacity.com/course/ux-design-for-mobile-developers--ud849
 - Into the design of everyday things - https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101
 - Design Thinking - https://www.udemy.com/design-thinking-k/
+- Color theory (basicccsss): https://www.youtube.com/watch?v=_2LLXnUdUIc
