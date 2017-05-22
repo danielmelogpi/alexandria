@@ -50,3 +50,9 @@ https://queue.acm.org/detail.cfm?id=1142065
 
 
 https://learningmusic.ableton.com/
+
+
+### Elastic Search
+- Getting Elastic Search to work with Postgres: 
+  - Cool extension using indexes on Postgres: https://github.com/zombodb/zombodb
+
