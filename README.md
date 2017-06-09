@@ -47,7 +47,8 @@ https://queue.acm.org/detail.cfm?id=1142065
 - James Sinclair - http://jrsinclair.com/
 - Pagarme Talks - Talk #45 - Nas entranhas do JavaScript: meta programação - https://www.youtube.com/watch?v=xrAJCFt2N5Q
 
-
+## Mobile
+- Update hibrid application assets without using App Store : https://microsoft.github.io/code-push/docs/cordova.html
 
 https://learningmusic.ableton.com/
 
