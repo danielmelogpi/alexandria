@@ -57,4 +57,5 @@ https://learningmusic.ableton.com/
 - Getting Elastic Search to work with Postgres: 
   - Cool extension using indexes on Postgres: https://github.com/zombodb/zombodb
   - Using triggers + Notify events and a dedicated gateway: https://developer.atlassian.com/blog/2015/02/realtime-requests-psql-elasticsearch/
+  - Postgress full text search is good enough - http://rachbelaid.com/postgres-full-text-search-is-good-enough/
 
